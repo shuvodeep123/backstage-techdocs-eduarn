@@ -3,6 +3,7 @@ site_name: Payment Service Docs
 nav:
   - Home: index.md
   - Help: help.md
+  - Payment Page Info: guideline.md
 
 docs_dir: docs
 
