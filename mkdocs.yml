@@ -2,6 +2,7 @@ site_name: Payment Service Docs
 
 nav:
   - Home: index.md
+  - Help: help.md
 
 docs_dir: docs
 
